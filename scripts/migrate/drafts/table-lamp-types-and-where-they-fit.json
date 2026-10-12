@@ -1,0 +1,38 @@
+{
+  "old_slug": "lamp-types-to-brighten-your-home",
+  "new_slug": "table-lamp-types-and-where-they-fit",
+  "category": "Decorating",
+  "title": "5 Table Lamp Types, and Which Room Actually Needs Each One",
+  "dek": "Cordless, soft fabric shade, adjustable color temperature, retro-inspired, touch-control — five lamp types and where each one actually fits.",
+  "date": "2026-03-23",
+  "blocks": [
+    {"type": "p", "text": "A good table lamp does more for a room's overall mood than almost any other single object in it."},
+    {"type": "p", "text": "The right type depends entirely on what the specific space actually needs, function, softness, portability, or just a bit of style."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/lamp-types-to-brighten-your-home/hero.png", "filename": "hero.png", "alt": "A warmly lit living room brightened by the right table lamp", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "1. Cordless and Rechargeable Lamps"},
+    {"type": "p", "text": "A battery-powered, rechargeable lamp goes anywhere a cord can't, a dinner table, a reading chair without a nearby outlet, even outdoors."},
+    {"type": "p", "text": "This flexibility makes it one of the most genuinely versatile types here, even if it means remembering to recharge it occasionally."},
+
+    {"type": "h2", "text": "2. Soft Fabric-Shade Lamps"},
+    {"type": "p", "text": "A linen or fabric shade diffuses light into something considerably softer and more ambient than an exposed or glass shade ever produces."},
+    {"type": "p", "text": "This type suits a space meant for winding down, where a harsher, more direct light would work against the mood rather than for it."},
+
+    {"type": "h2", "text": "3. Adjustable Color-Temperature Lamps"},
+    {"type": "p", "text": "A lamp that shifts between warmer and cooler light tones adapts to different times of day and different tasks far better than a single fixed color temperature can."},
+    {"type": "p", "text": "This is one of the more genuinely useful upgrades on this list, especially for anyone using the same lamp for both relaxing and reading."},
+
+    {"type": "h2", "text": "4. Retro-Inspired Accent Lamps"},
+    {"type": "p", "text": "A lamp with a vintage-inspired silhouette brings genuine character to a room in a way a purely functional design never quite manages."},
+    {"type": "p", "text": "This type works best as a quiet style statement, chosen as much for how it looks switched off as for the light it gives when it's on."},
+
+    {"type": "h2", "text": "5. Touch-Control Dimmable Lamps"},
+    {"type": "p", "text": "A touch-control lamp with multiple brightness levels solves the most common lamp complaint, needing different light for different moments, without a single physical switch to fumble for in the dark."},
+    {"type": "p", "text": "This type works especially well on a nightstand, where a simple tap beats reaching for a small knob or pull-chain."},
+
+    {"type": "h2", "text": "Which Lamp Type Actually Fits"},
+    {"type": "p", "text": "A bedside table calls for dimmable touch control above almost anything else, while a living room accent table has more room for a bolder, retro-inspired choice."},
+    {"type": "p", "text": "A space without a nearby outlet is the one clear case where cordless wins outright, regardless of which other features might otherwise be preferred."},
+    {"type": "p", "text": "None of these five types is the universally correct choice, matching the type to the room's actual function matters far more than any single feature on its own ever will."}
+  ]
+}

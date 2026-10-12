@@ -1,0 +1,77 @@
+{
+  "old_slug": "choosing-patio-furniture",
+  "new_slug": "patio-furniture-buying-tips",
+  "category": "Outdoor",
+  "title": "How to Pick Patio Furniture That Actually Lasts",
+  "dek": "Comfort, materials, real maintenance — the practical side of furnishing an outdoor space, not just the pretty side.",
+  "date": "2026-10-02",
+  "blocks": [
+    {"type": "p", "text": "Patio furniture gets chosen the exact same way indoor furniture does."},
+    {"type": "p", "text": "By looks. Just looks."},
+    {"type": "p", "text": "Weather and actual use become an afterthought, if they're thought about at all."},
+    {"type": "p", "text": "That's exactly how a gorgeous set ends up faded, rusted, or just plain uncomfortable by the end of one season."},
+    {"type": "p", "text": "Here's the actual decision process. Not just a list of pretty styles."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/hero.png", "filename": "hero.png", "alt": "Stylish patio furniture perfectly suited for an outdoor space", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Start With Comfort, Not the Photo"},
+    {"type": "p", "text": "Furniture that looks stunning in photos but is miserable to sit in defeats the whole point of an outdoor space."},
+    {"type": "p", "text": "Test the seating in person whenever you can."},
+    {"type": "p", "text": "Photos and spec sheets can't catch a comfort problem the way actually sitting down does."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/comfort.png", "filename": "comfort.png", "alt": "Comfortable patio seating inviting relaxed outdoor living", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Pick Materials for Your Actual Weather"},
+    {"type": "p", "text": "Teak and aluminum both shrug off moisture and sun pretty well."},
+    {"type": "p", "text": "Wicker and certain fabrics need more protection, or a seasonal trip into storage."},
+    {"type": "p", "text": "Your local climate matters more than personal preference here."},
+    {"type": "p", "text": "A material that thrives somewhere dry might not survive somewhere humid."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/materials.png", "filename": "materials.png", "alt": "Weather-resistant materials chosen for long-lasting patio furniture", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Know the Space Before You Shop"},
+    {"type": "p", "text": "The patio's real dimensions, sun exposure, and typical wind all shape the right furniture choice."},
+    {"type": "p", "text": "That should happen before any style preference enters the conversation."},
+    {"type": "p", "text": "Measure the space. Map out how people actually walk through it."},
+    {"type": "p", "text": "Skip this and you end up with furniture that's technically gorgeous and practically too big."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/know-space.png", "filename": "know-space.png", "alt": "Carefully measured outdoor space ready for the right furniture", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Set a Budget That Rewards Durability"},
+    {"type": "p", "text": "Spend more on frame durability and weather resistance."},
+    {"type": "p", "text": "Spend less chasing trend-driven style details."},
+    {"type": "p", "text": "That trade pays off longer."},
+    {"type": "p", "text": "A smaller, higher-quality set usually outlasts a bigger, cheaper one that needs replacing in a couple of seasons anyway."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/budget.png", "filename": "budget.png", "alt": "Quality patio furniture offering lasting value within a set budget", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Choose a Style That Actually Fits Your Home"},
+    {"type": "p", "text": "Outdoor furniture deserves the same style attention as anything indoors."},
+    {"type": "p", "text": "It's an extension of your home. Not some separate, lower-priority category."},
+    {"type": "p", "text": "A style that complements your home's existing architecture and interior feels more cohesive than one picked in isolation."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/style.png", "filename": "style.png", "alt": "Patio furniture styled to complement the home's overall aesthetic", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Match It to How You Actually Live Out There"},
+    {"type": "p", "text": "A household that hosts constantly needs different furniture than one that mostly wants quiet morning coffee outside."},
+    {"type": "p", "text": "Be honest about how the space actually gets used."},
+    {"type": "p", "text": "Not how you imagine it might get used someday."},
+    {"type": "p", "text": "That honesty is what gets you furniture that earns its keep daily."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/lifestyle.png", "filename": "lifestyle.png", "alt": "Patio furniture matched to the homeowner's actual lifestyle needs", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Think About Where It Goes When the Weather Turns"},
+    {"type": "p", "text": "Furniture that folds, stacks, or stores away compactly during harsh weather lasts a lot longer than furniture left exposed year-round."},
+    {"type": "p", "text": "Factor this in before you buy."},
+    {"type": "p", "text": "Not after the first furniture cover gives out."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/storage.png", "filename": "storage.png", "alt": "Patio furniture designed with convenient storage options", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Be Honest About Maintenance"},
+    {"type": "p", "text": "Some materials need regular sealing, cleaning, or covering."},
+    {"type": "p", "text": "Others just get hosed off and left alone."},
+    {"type": "p", "text": "Be realistic about how much upkeep you'll actually do."},
+    {"type": "p", "text": "Not how much you ideally should do."},
+    {"type": "p", "text": "That honesty is what keeps the set looking good years in, not just the first summer."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/choosing-patio-furniture/maintenance.png", "filename": "maintenance.png", "alt": "Low-maintenance patio furniture requiring minimal upkeep", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "You've Got This"},
+    {"type": "p", "text": "None of these factors need equal weight for every household."},
+    {"type": "p", "text": "Start with comfort and materials, since both shape how the set holds up and feels day to day."},
+    {"type": "p", "text": "Then work through space, budget, and style from there."},
+    {"type": "p", "text": "The right patio furniture earns its keep for years, not just one good-looking season."},
+    {"type": "p", "text": "Give it that level of thought, and it'll give years of actual use back."}
+  ]
+}

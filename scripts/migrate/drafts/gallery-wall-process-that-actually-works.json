@@ -1,0 +1,71 @@
+{
+  "old_slug": "gallery-wall-execution-guide",
+  "new_slug": "gallery-wall-process-that-actually-works",
+  "category": "Wall Decor",
+  "title": "The Real Process Behind a Gallery Wall That Doesn't Look Accidental",
+  "dek": "Common mistakes, spacing, frame matching and layout planning — the actual execution behind a gallery wall, not just the concept.",
+  "date": "2025-12-07",
+  "blocks": [
+    {"type": "p", "text": "A gallery wall sounds simple right up until the hammer is in hand and a dozen frames are spread across the floor."},
+    {"type": "p", "text": "The idea is the easy part. The execution is where most attempts either come together beautifully or end up lopsided and abandoned halfway through."},
+    {"type": "p", "text": "This covers the actual process, not just the concept behind it."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/hero.jpg", "filename": "hero.jpg", "alt": "Stunning gallery wall showcasing a timeless home decor trend", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Common Mistakes Worth Avoiding First"},
+    {"type": "p", "text": "Hanging everything too high is the most frequent mistake by far, the center of the arrangement should sit roughly at eye level, not the single top piece."},
+    {"type": "p", "text": "Skipping the floor layout step and hanging straight onto the wall is the second most common mistake, and it's the hardest one to fix after the fact."},
+    {"type": "p", "text": "Too many different frame colors with no unifying thread at all rounds out the top three, a mix needs at least one consistent element running through it to read as intentional rather than random."},
+
+    {"type": "h2", "text": "Updating It Without Starting Over"},
+    {"type": "p", "text": "A gallery wall built with a bit of extra spacing from the beginning makes it much easier to add or swap a piece later without redoing the entire layout."},
+    {"type": "p", "text": "Keeping a couple of frames empty, or easily swappable, gives the wall room to evolve naturally as new art or photos come along over time."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/updating.png", "filename": "updating.png", "alt": "Gallery wall designed for easy future updates and additions", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Making a Mixed Wall Feel Cohesive"},
+    {"type": "p", "text": "Even a deliberately eclectic gallery wall still needs one consistent thread, a recurring color, a shared frame tone, or steady spacing, to avoid reading as cluttered rather than curated."},
+    {"type": "p", "text": "Stepping back regularly throughout the process, instead of hanging everything in one single go, makes it far easier to catch the moment the mix tips from considered into chaotic."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/cohesive.png", "filename": "cohesive.png", "alt": "Gallery wall combining various styles into a cohesive display", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Getting the Spacing Right"},
+    {"type": "p", "text": "A consistent gap, somewhere around 2 to 3 inches between pieces, reads as intentional, while wildly inconsistent spacing reads as unplanned no matter how good the individual pieces are."},
+    {"type": "p", "text": "This is one detail genuinely worth measuring rather than eyeballing, since small spacing inconsistencies become far more obvious once the whole wall is actually finished."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/spacing.png", "filename": "spacing.png", "alt": "Properly spaced gallery wall pieces for a polished look", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "What Actually Belongs on the Wall"},
+    {"type": "p", "text": "Art is only one option here, photos, mirrors, small shelves, textiles, and found objects all work alongside or in place of traditional framed pieces."},
+    {"type": "p", "text": "A wall that mixes in a few of these categories tends to feel more dimensional overall than one filled entirely with flat framed prints."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/what-to-include.png", "filename": "what-to-include.png", "alt": "Gallery wall featuring a mix of art, photos and decor objects", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Do the Frames Need to Match?"},
+    {"type": "p", "text": "A matched frame set reads as clean and coordinated, while a deliberate mix of frame styles reads as collected over time, built piece by piece rather than bought all at once."},
+    {"type": "p", "text": "A mixed approach works best when it carries some kind of consistency underneath it, the same metal tone, or a shared color family, so it reads as curated rather than simply mismatched."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/frame-game.png", "filename": "frame-game.png", "alt": "Mixed frame styles creating visual interest in a gallery wall", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Planning the Layout First"},
+    {"type": "p", "text": "Laying every single piece out on the floor in the intended arrangement, before a single nail goes anywhere near the wall, saves far more patching and re-hanging than it costs in time upfront."},
+    {"type": "p", "text": "Tracing each frame onto paper and taping those outlines to the wall is a slower but nearly foolproof version of the same idea, especially for a first attempt."},
+    {"type": "p", "text": "This step, more than any other, is the single biggest predictor of whether the finished wall ends up looking genuinely intentional."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/layout.jpg", "filename": "layout.jpg", "alt": "Carefully planned gallery wall layout before hanging", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Theme or Deliberate Chaos"},
+    {"type": "p", "text": "A tightly themed wall, one color palette, one subject, matching frames, reads as more polished and controlled."},
+    {"type": "p", "text": "A looser, more eclectic mix reads as more collected and personal instead, as long as there's at least one unifying thread tying the whole arrangement together."},
+    {"type": "p", "text": "Both approaches genuinely work. The real mistake is landing somewhere in between without fully committing to either direction."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/theme-or-chaos.jpg", "filename": "theme-or-chaos.jpg", "alt": "Eclectic gallery wall mixing various art styles and themes", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Choosing the Right Wall"},
+    {"type": "p", "text": "A wall with enough uninterrupted space, decent natural or ambient lighting, and a clear sightline from the room's main vantage points works best for this kind of project."},
+    {"type": "p", "text": "A stairwell, a hallway, or the wall behind a sofa are all classic choices for good reason, they get seen regularly without competing with a window or doorway for attention."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/choosing-wall.jpg", "filename": "choosing-wall.jpg", "alt": "Blank wall ready to be transformed into a gallery wall", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Why the Trend Never Actually Fades"},
+    {"type": "p", "text": "A gallery wall solves a genuinely real problem, a blank wall with nothing else planned for it, which is part of why it keeps coming back no matter what broader style trends are doing."},
+    {"type": "p", "text": "It's also one of the few decor choices that gets more personal and more interesting over time, rather than needing to be replaced the moment trends shift."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/gallery-wall-execution-guide/why-popular.jpg", "filename": "why-popular.jpg", "alt": "Gallery wall trend that continues to stay stylish year after year", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Should You Make One?"},
+    {"type": "p", "text": "A gallery wall is worth the effort for almost any blank wall that gets regular foot traffic and visibility."},
+    {"type": "p", "text": "Plan the layout on the floor first, commit fully to either a clear theme or a genuinely cohesive mix, and leave room built in to update it later."},
+    {"type": "p", "text": "Handled with even a little planning upfront, it becomes one of the longest-lasting decor choices any wall in the house can get."}
+  ]
+}

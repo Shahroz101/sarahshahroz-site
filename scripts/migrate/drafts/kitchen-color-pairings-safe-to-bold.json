@@ -1,0 +1,58 @@
+{
+  "old_slug": "modern-kitchen-color-pairings",
+  "new_slug": "kitchen-color-pairings-safe-to-bold",
+  "category": "Kitchen",
+  "title": "7 Kitchen Color Pairings, From Safe to Genuinely Bold",
+  "dek": "Charcoal and gold, navy and brass, white and wood — 7 kitchen color pairings, plus how to mix two tones without it looking accidental.",
+  "date": "2026-06-03",
+  "blocks": [
+    {"type": "p", "text": "One good color matters less in a kitchen than how two colors work together."},
+    {"type": "p", "text": "Cabinets, walls, an island, and hardware all have to agree with each other, which makes pairing harder than picking a single shade ever is."},
+    {"type": "p", "text": "These seven combinations cover the range, from safe to genuinely bold."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/hero.jpg", "filename": "hero.jpg", "alt": "A modern kitchen built around a considered color pairing", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Do's and Don'ts of Mixing Kitchen Colors"},
+    {"type": "p", "text": "Keeping one color dominant and the second as an accent, rather than splitting the room 50/50, generally reads as more intentional."},
+    {"type": "p", "text": "Testing both colors together under the kitchen's actual lighting matters more here than for a single color, since how two tones interact can shift considerably under warm versus cool light."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/dos-donts.png", "filename": "dos-donts.png", "alt": "Testing a kitchen color pairing under real lighting before committing", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "1. Black, White, and a Splash of Color"},
+    {"type": "p", "text": "A black-and-white base with one additional bold accent color brings personality without committing to a full bold palette everywhere."},
+    {"type": "p", "text": "This approach also makes updating the accent color later far easier than repainting an entire two-tone scheme."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/colorpop.png", "filename": "colorpop.png", "alt": "A black and white kitchen with a bold splash of accent color", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "2. Greige and Black"},
+    {"type": "p", "text": "A warm greige base paired with black accents brings understated sophistication without the starkness of pure gray and black together."},
+    {"type": "p", "text": "This combination tends to age well, since greige sits in a genuinely neutral middle ground that rarely feels dated."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/greige-black.png", "filename": "greige-black.png", "alt": "An understated, cool greige and black kitchen color pairing", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "3. Pale Blue and White"},
+    {"type": "p", "text": "A pale, almost washed-out blue against crisp white brings a light, airy coastal quality that reads as effortless rather than themed."},
+    {"type": "p", "text": "This pairing works especially well in a kitchen with good natural light, which amplifies the combination's inherent brightness."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/paleblue-white.png", "filename": "paleblue-white.png", "alt": "A light, airy pale blue and white kitchen color pairing", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "4. Navy and Brass"},
+    {"type": "p", "text": "Deep navy cabinetry against warm brass hardware brings real richness and a bold, moody sophistication."},
+    {"type": "p", "text": "This combination tends to work best on a single wall or island rather than every surface, letting the navy stay a statement instead of overwhelming the room."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/navy-brass.png", "filename": "navy-brass.png", "alt": "A bold, moody navy and brass kitchen color pairing", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "5. Sage Green and Cream"},
+    {"type": "p", "text": "A soft sage paired with a warm cream brings genuine calm without tipping into anything cold or clinical."},
+    {"type": "p", "text": "This pairing suits a kitchen aiming for a softer, more relaxed feel rather than a sharp, high-contrast look."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/sage-cream.png", "filename": "sage-cream.png", "alt": "A soft, sophisticated sage green and cream kitchen pairing", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "6. Charcoal and Gold"},
+    {"type": "p", "text": "Dark charcoal cabinetry paired with gold or brass hardware brings genuine drama and a modern, upscale edge."},
+    {"type": "p", "text": "This combination works best with enough natural light or layered lighting to keep the dark tone from reading as heavy or closed-in."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/charcoal-gold.png", "filename": "charcoal-gold.png", "alt": "A dramatic charcoal and gold kitchen color pairing", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "7. White and Wood"},
+    {"type": "p", "text": "White cabinetry against natural wood tones, open shelving, a butcher block island, wood flooring, brings warmth to a palette that could otherwise feel sterile."},
+    {"type": "p", "text": "This pairing works in almost any kitchen size or layout, which is exactly why it's stayed a safe, reliable choice for so long."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/modern-kitchen-color-pairings/white-wood.png", "filename": "white-wood.png", "alt": "A classic white and wood kitchen color pairing with natural warmth", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Pick What Feels Right"},
+    {"type": "p", "text": "None of these seven pairings is universally correct, the best one depends on the kitchen's light, size, and the mood that's actually wanted."},
+    {"type": "p", "text": "Whichever combination gets chosen in the end, the two colors working together end up mattering far more than either single one on its own."}
+  ]
+}

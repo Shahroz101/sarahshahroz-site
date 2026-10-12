@@ -1,0 +1,53 @@
+{
+  "old_slug": "flower-bed-edging-technique",
+  "new_slug": "how-to-dig-a-flower-bed-edge",
+  "category": "Garden",
+  "title": "How to Dig a Flower Bed Edge That Actually Looks Intentional",
+  "dek": "Style, maintenance, mulching, digging and planning — the physical technique behind a crisp flower bed edge, independent of which material goes in it.",
+  "date": "2025-11-27",
+  "blocks": [
+    {"type": "p", "text": "Choosing an edging material is one decision. Actually digging and shaping the edge is a separate skill entirely."},
+    {"type": "p", "text": "This covers the physical technique, the part that determines whether the edge looks crisp and intentional, or vaguely dug and uneven, regardless of which material eventually goes in it."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/flower-bed-edging-technique/hero.png", "filename": "hero.png", "alt": "Essential garden tools for creating a flower bed edge", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "1. Choosing a Style for the Garden"},
+    {"type": "p", "text": "A soft, curved edge suits a cottage or informal garden; a crisp, straight edge suits a more modern or formal layout."},
+    {"type": "p", "text": "This decision should echo the rest of the garden's existing lines, an edge style that fights the garden's overall shape reads as an afterthought rather than a considered choice."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/flower-bed-edging-technique/choosing-style.png", "filename": "choosing-style.png", "alt": "Choosing the right edging style to match the garden's character", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "2. Keeping the Edge Maintained"},
+    {"type": "p", "text": "A quick re-cut every few weeks during the growing season keeps grass from creeping back across the line, which happens faster than most people expect."},
+    {"type": "p", "text": "This maintenance habit matters more for a soil-cut edge than for a hard material edge, since there's nothing physically blocking regrowth beyond the clean line itself."},
+
+    {"type": "h2", "text": "3. Mulching the Edge"},
+    {"type": "p", "text": "A layer of mulch along the freshly cut edge finishes the look and helps the line hold its shape longer before the next maintenance pass."},
+    {"type": "p", "text": "Bare dirt along a fresh edge looks unfinished even when the cut itself is clean, mulch is what makes the whole thing read as complete."},
+
+    {"type": "h2", "text": "4. Smoothing and Shaping"},
+    {"type": "p", "text": "Cleaning up the cut edge after the initial dig, removing loose soil, straightening any wobble in the line, is what separates a rough first pass from a genuinely finished edge."},
+    {"type": "p", "text": "This step is easy to rush, but it's the difference between an edge that reads as deliberate and one that reads as merely attempted."},
+
+    {"type": "h2", "text": "5. Digging the Edge"},
+    {"type": "p", "text": "A clean, angled cut, roughly 45 degrees, several inches deep, creates a defined trench that physically separates the bed from the lawn, not just a visual line."},
+    {"type": "p", "text": "Working in small sections, rather than trying to dig the entire perimeter in one pass, keeps the cut consistent throughout."},
+
+    {"type": "h2", "text": "6. The Tools That Actually Matter"},
+    {"type": "p", "text": "A half-moon edger or a flat spade, a garden hose for marking curves, and a basic pair of gloves cover genuinely everything required, no specialized equipment needed."},
+    {"type": "p", "text": "A string line and stakes help keep straight sections honest, where a hose is more useful for anything curved."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/flower-bed-edging-technique/tools.png", "filename": "tools.png", "alt": "Basic garden tools needed for edging a flower bed", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "7. Planning Before Digging"},
+    {"type": "p", "text": "Marking the intended line with a hose or rope before cutting anything lets the shape get adjusted freely, with zero commitment, before a single shovel touches the ground."},
+    {"type": "p", "text": "Standing back and viewing the marked line from a distance, not just up close, catches awkward curves that are hard to see while standing right next to them."},
+
+    {"type": "h2", "text": "8. Why Bother With an Edge at All"},
+    {"type": "p", "text": "A defined edge is what actually stops grass from creeping into a bed and mulch from drifting onto the lawn, it's function first, aesthetics second."},
+    {"type": "p", "text": "It's also one of the fastest ways to make an entire garden look more maintained, even before anything else in the bed gets touched."},
+    {"type": "img", "src": "https://khizrashahroz.com/images/flower-bed-edging-technique/why-bother.png", "filename": "why-bother.png", "alt": "Well-defined flower bed edge improving the garden's overall look", "credit_name": null, "credit_url": null},
+
+    {"type": "h2", "text": "Go Forth and Edge With Confidence"},
+    {"type": "p", "text": "None of this requires special skill, just patience through the planning and digging stages."},
+    {"type": "p", "text": "Mark the line, dig it cleanly, and maintain it regularly, the technique matters more than any tool or material choice that comes after it."},
+    {"type": "p", "text": "Get that part right first, and almost any edging material will look intentional once it's set into place."}
+  ]
+}

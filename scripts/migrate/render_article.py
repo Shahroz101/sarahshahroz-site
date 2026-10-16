@@ -56,9 +56,24 @@ def download_image(url, dest_path):
         f.write(data)
 
 
-def render_blocks(blocks, new_slug):
+def render_product_grid(products, new_slug):
+    if not products:
+        return ""
+    cards = []
+    for p in products:
+        img_rel = f"../images/articles/{new_slug}/products/{p['asin']}.jpg"
+        cards.append(f"""      <div class="product-card">
+        <img class="product-photo" src="{img_rel}" alt="{esc(p['title'])}" loading="lazy">
+        <p class="product-title">{esc(p['title'])}</p>
+        <a class="shop-cta" href="{esc(p['affiliate_link'])}" target="_blank" rel="nofollow sponsored noopener">Shop on Amazon</a>
+      </div>""")
+    return '<div class="product-grid">\n' + "\n".join(cards) + "\n    </div>"
+
+
+def render_blocks(blocks, new_slug, products_by_image=None):
     out = []
     img_dir_rel = f"../images/articles/{new_slug}"
+    img_index = 0
     for b in blocks:
         if b["type"] == "p":
             out.append(f"<p>{esc(b['text'])}</p>")
@@ -91,6 +106,11 @@ def render_blocks(blocks, new_slug):
                 f'<figure>\n      <img src="{local_path}" alt="{esc(b["alt"])}" loading="lazy">\n'
                 f'      {credit_html}\n    </figure>'
             )
+            if products_by_image and img_index < len(products_by_image):
+                grid_html = render_product_grid(products_by_image[img_index], new_slug)
+                if grid_html:
+                    out.append(grid_html)
+            img_index += 1
     return "\n\n".join(out)
 
 
@@ -130,7 +150,15 @@ def main():
 
     new_slug = d["new_slug"]
     minutes = read_minutes(d["blocks"])
-    body_html = render_blocks(d["blocks"], new_slug)
+
+    products_by_image = None
+    assignments_path = os.path.join(HERE, "affiliate_assignments.json")
+    if os.path.exists(assignments_path):
+        with open(assignments_path, encoding="utf-8") as f:
+            all_assignments = json.load(f)
+        products_by_image = all_assignments.get(new_slug)
+
+    body_html = render_blocks(d["blocks"], new_slug, products_by_image)
 
     page = f"""<!DOCTYPE html>
 <html lang="en">

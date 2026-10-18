@@ -24,7 +24,7 @@ def main():
     featured = items[0]
     latest = items[1:5]
 
-    featured_html = f"""        <a href="articles/{featured['new_slug']}.html" class="featured-post">
+    featured_html = f"""        <a href="articles/{featured['new_slug']}" class="featured-post">
           <div class="featured-image" aria-hidden="true"><img src="{featured['hero_image']}" alt="" loading="lazy"></div>
           <div class="featured-content">
             <span class="tag">{esc(featured['category'])}</span>
@@ -37,10 +37,10 @@ def main():
     cards = []
     for it in latest:
         cards.append(f"""          <article class="post-card">
-            <a href="articles/{it['new_slug']}.html"><div class="post-image" aria-hidden="true"><img src="{it['hero_image']}" alt="" loading="lazy"></div></a>
+            <a href="articles/{it['new_slug']}"><div class="post-image" aria-hidden="true"><img src="{it['hero_image']}" alt="" loading="lazy"></div></a>
             <div class="post-body">
               <span class="tag">{esc(it['category'])}</span>
-              <h3><a href="articles/{it['new_slug']}.html">{esc(it['title'])}</a></h3>
+              <h3><a href="articles/{it['new_slug']}">{esc(it['title'])}</a></h3>
               <p>{esc(it['dek'])}</p>
               <span class="meta">{it['date']}</span>
             </div>

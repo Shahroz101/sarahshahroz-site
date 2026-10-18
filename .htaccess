@@ -4,6 +4,10 @@ RewriteEngine On
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^?]+)\.html[\ ?] [NC]
 RewriteRule ^ /%1 [R=301,L]
 
+# Articles moved from /articles/<slug> to root-level /<slug>. Old per-article
+# URLs under /articles/ no longer exist (only the /articles/ listing page does).
+RewriteRule ^articles/(?!index(\.html)?$)[^/]+/?$ - [R=404,L]
+
 # Internally serve the .html file for a clean URL request
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.html -f

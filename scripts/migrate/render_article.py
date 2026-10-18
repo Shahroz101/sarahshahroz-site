@@ -22,8 +22,8 @@ Draft JSON shape:
 }
 
 Downloads each img's src into images/articles/<new_slug>/<filename>,
-writes articles/<new_slug>.html, updates progress.json, and rebuilds
-articles/index.html.
+writes <new_slug>.html at site root (clean slug URL), updates
+progress.json, and rebuilds articles/index.html.
 """
 import sys
 import os
@@ -36,7 +36,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(os.path.dirname(HERE))  # New website/
 
 sys.path.insert(0, HERE)
-from common import HEADER, FOOTER, NEWSLETTER_SECTION  # noqa: E402
+from common import HEADER_ROOT as HEADER, FOOTER_ROOT as FOOTER, NEWSLETTER_SECTION  # noqa: E402
 
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 
@@ -61,7 +61,7 @@ def render_product_grid(products, new_slug):
         return ""
     cards = []
     for p in products:
-        img_rel = f"../images/articles/{new_slug}/products/{p['asin']}.jpg"
+        img_rel = f"images/articles/{new_slug}/products/{p['asin']}.jpg"
         cards.append(f"""      <div class="product-card">
         <img class="product-photo" src="{img_rel}" alt="{esc(p['title'])}" loading="lazy">
         <p class="product-title">{esc(p['title'])}</p>
@@ -72,7 +72,7 @@ def render_product_grid(products, new_slug):
 
 def render_blocks(blocks, new_slug, products_by_image=None):
     out = []
-    img_dir_rel = f"../images/articles/{new_slug}"
+    img_dir_rel = f"images/articles/{new_slug}"
     img_index = 0
     for b in blocks:
         if b["type"] == "p":
@@ -166,7 +166,7 @@ def main():
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{esc(d['title'])} | Sarah Shahroz</title>
-  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
@@ -175,7 +175,7 @@ def main():
   <main>
     <section class="post-hero">
       <div class="container">
-        <p class="breadcrumb"><a href="index.html">Articles</a> / {esc(d['category'])}</p>
+        <p class="breadcrumb"><a href="articles/index.html">Articles</a> / {esc(d['category'])}</p>
         <h1>{esc(d['title'])}</h1>
         <p class="post-dek">{esc(d['dek'])}</p>
         <p class="post-meta">{d['date']} &middot; {minutes} min read</p>
@@ -187,7 +187,7 @@ def main():
 
 {body_html}
 
-        <p class="post-back"><a href="index.html">&larr; Back to all articles</a></p>
+        <p class="post-back"><a href="articles/index.html">&larr; Back to all articles</a></p>
       </div>
     </section>
 
@@ -199,7 +199,7 @@ def main():
 </html>
 """
 
-    out_path = os.path.join(ROOT, "articles", f"{new_slug}.html")
+    out_path = os.path.join(ROOT, f"{new_slug}.html")
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(page)
 

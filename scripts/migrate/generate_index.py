@@ -27,10 +27,10 @@ def main():
     for it in items:
         img = f'../{it["hero_image"]}' if it.get("hero_image") else ""
         cards.append(f"""          <article class="post-card">
-            <a href="{it['new_slug']}"><div class="post-image"><img src="{img}" alt="" loading="lazy"></div></a>
+            <a href="../{it['new_slug']}"><div class="post-image"><img src="{img}" alt="" loading="lazy"></div></a>
             <div class="post-body">
               <span class="tag">{esc(it['category'])}</span>
-              <h3><a href="{it['new_slug']}">{esc(it['title'])}</a></h3>
+              <h3><a href="../{it['new_slug']}">{esc(it['title'])}</a></h3>
               <p>{esc(it['dek'])}</p>
               <span class="meta">{it['date']} &middot; {it['minutes']} min read</span>
             </div>

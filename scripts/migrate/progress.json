@@ -2715,5 +2715,16 @@
     "word_count": 1914,
     "hero_image": "images/articles/winter-tray-decor-ideas/hero.jpg",
     "status": "done"
+  },
+  "christmas-wreath-ideas": {
+    "new_slug": "christmas-wreath-ideas",
+    "title": "25 Christmas Wreath Ideas for Every Front Door",
+    "dek": "From a bare pinecone wreath to full black-and-gold glam \u2014 25 ways to dress your front door for the season.",
+    "category": "Decorating",
+    "date": "2026-10-24",
+    "minutes": 7,
+    "word_count": 1292,
+    "hero_image": "images/articles/christmas-wreath-ideas/hero.jpg",
+    "status": "done"
   }
 }

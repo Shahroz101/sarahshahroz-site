@@ -2726,5 +2726,16 @@
     "word_count": 1702,
     "hero_image": "images/articles/christmas-wreath-ideas/hero.jpg",
     "status": "done"
+  },
+  "festive-vintage-christmas-decor-ideas": {
+    "new_slug": "festive-vintage-christmas-decor-ideas",
+    "title": "33 Festive Vintage Christmas Decor Ideas for a Nostalgic Home",
+    "dek": "From mercury glass ornaments to a sled dressed up at the front door \u2014 33 ways to give your home that collected-over-time holiday feel.",
+    "category": "Decorating",
+    "date": "2026-10-24",
+    "minutes": 9,
+    "word_count": 2877,
+    "hero_image": "images/articles/festive-vintage-christmas-decor-ideas/hero.jpg",
+    "status": "done"
   }
 }

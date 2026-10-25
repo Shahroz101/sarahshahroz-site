@@ -2759,5 +2759,16 @@
     "word_count": 4195,
     "hero_image": "images/articles/christmas-tiered-tray-ideas/hero.jpg",
     "status": "done"
+  },
+  "christmas-kitchen-decor-ideas": {
+    "new_slug": "christmas-kitchen-decor-ideas",
+    "title": "36 Christmas Kitchen Decor Ideas for a Festive Heart of the Home",
+    "dek": "From garland framing the window over the sink to a range hood dressed as a gingerbread house \u2014 36 ways to decorate the room everyone ends up in.",
+    "category": "Kitchen",
+    "date": "2026-10-26",
+    "minutes": 11,
+    "word_count": 3251,
+    "hero_image": "images/articles/christmas-kitchen-decor-ideas/hero.jpg",
+    "status": "done"
   }
 }

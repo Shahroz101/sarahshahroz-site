@@ -2737,5 +2737,16 @@
     "word_count": 2877,
     "hero_image": "images/articles/festive-vintage-christmas-decor-ideas/hero.jpg",
     "status": "done"
+  },
+  "christmas-bathroom-decor-ideas": {
+    "new_slug": "christmas-bathroom-decor-ideas",
+    "title": "45 Christmas Bathroom Decor Ideas That Feel Festive, Not Fussy",
+    "dek": "From a mirror wrapped entirely in pinecones to a single Santa figurine on a floating shelf \u2014 45 ways to bring the holidays into even the smallest room in the house.",
+    "category": "Decorating",
+    "date": "2026-10-25",
+    "minutes": 12,
+    "word_count": 3936,
+    "hero_image": "images/articles/christmas-bathroom-decor-ideas/hero.jpg",
+    "status": "done"
   }
 }

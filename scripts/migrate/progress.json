@@ -2781,5 +2781,27 @@
     "word_count": 2329,
     "hero_image": "images/articles/christmas-dessert-ideas/hero.jpg",
     "status": "done"
+  },
+  "festive-friendsgiving-decor-ideas": {
+    "new_slug": "festive-friendsgiving-decor-ideas",
+    "title": "25 Friendsgiving Decor Ideas That Work on a Weeknight Budget",
+    "dek": "From an amber-glass table by the fire to hay bales under paper lanterns \u2014 25 ways to host Friendsgiving without a formal dining room or a formal budget.",
+    "category": "Entertaining",
+    "date": "2026-10-26",
+    "minutes": 10,
+    "word_count": 2078,
+    "hero_image": "images/articles/festive-friendsgiving-decor-ideas/hero.jpg",
+    "status": "done"
+  },
+  "new-years-eve-decor-ideas": {
+    "new_slug": "new-years-eve-decor-ideas",
+    "title": "30 New Year\u2019s Eve Decor Ideas for a Party That Looks Good at Midnight",
+    "dek": "From a balloon ceiling to a resolutions jar by the door \u2014 30 ways to decorate for the one night the lights stay off and the decor has to glow.",
+    "category": "Holidays",
+    "date": "2026-10-26",
+    "minutes": 11,
+    "word_count": 2541,
+    "hero_image": "images/articles/new-years-eve-decor-ideas/hero.jpg",
+    "status": "done"
   }
 }

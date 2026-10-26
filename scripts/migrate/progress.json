@@ -2770,5 +2770,16 @@
     "word_count": 3251,
     "hero_image": "images/articles/christmas-kitchen-decor-ideas/hero.jpg",
     "status": "done"
+  },
+  "christmas-dessert-ideas": {
+    "new_slug": "christmas-dessert-ideas",
+    "title": "22 Christmas Dessert Ideas for Your Holiday Table",
+    "dek": "From a chocolate yule log to snowman cake pops on a gold stand \u2014 22 desserts, showstoppers and no-bake treats alike, to fill out a holiday table.",
+    "category": "Entertaining",
+    "date": "2026-10-26",
+    "minutes": 8,
+    "word_count": 2030,
+    "hero_image": "images/articles/christmas-dessert-ideas/hero.jpg",
+    "status": "done"
   }
 }

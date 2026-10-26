@@ -13,7 +13,7 @@ cd "$ROOT" || exit 1
 curl -s "https://api.github.com/repos/$REPO/git/trees/main?recursive=1" \
   | grep -o '"path": *"[^"]*"' \
   | sed 's/"path": *"//;s/"$//' \
-  | grep -E "^(${SLUG}\.html|index\.html|articles/index\.html|images/articles/${SLUG}/.*\.(jpg|jpeg|png|webp))$" \
+  | grep -E "^(${SLUG}\.html|index\.html|articles/index\.html|css/style\.css|js/script\.js|images/articles/${SLUG}/.*\.(jpg|jpeg|png|webp))$" \
   > "$LIST"
 
 ok=0; fail=0

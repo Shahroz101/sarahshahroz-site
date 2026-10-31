@@ -2803,5 +2803,16 @@
     "word_count": 2541,
     "hero_image": "images/articles/new-years-eve-decor-ideas/hero.jpg",
     "status": "done"
+  },
+  "diy-mudroom-ideas": {
+    "new_slug": "diy-mudroom-ideas",
+    "title": "58 DIY Mudroom Ideas for a Drop Zone That Survives Wet Boots",
+    "dek": "From a peg rail on a bare wall to a garage locker wall \u2014 58 mudrooms sorted by the problem they solve, with the measurements that make them work.",
+    "category": "Entryway",
+    "date": "2026-10-31",
+    "minutes": 18,
+    "word_count": 4012,
+    "hero_image": "images/articles/diy-mudroom-ideas/hero.jpg",
+    "status": "done"
   }
 }

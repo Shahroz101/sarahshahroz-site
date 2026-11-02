@@ -2847,5 +2847,49 @@
     "word_count": 3632,
     "hero_image": "images/articles/christmas-table-centerpiece-ideas/hero.jpg",
     "status": "done"
+  },
+  "christmas-entryway-ideas": {
+    "new_slug": "christmas-entryway-ideas",
+    "title": "30 Christmas Entryway Ideas That Say Welcome and Still Let People In",
+    "dek": "Front doors, porches, console tables, benches and stairs — 30 ways to decorate the entry, with the wreath sizes, hook ratings and path widths that keep it working through the season.",
+    "category": "Entryway",
+    "date": "2026-11-03",
+    "minutes": 11,
+    "word_count": 3382,
+    "hero_image": "images/articles/christmas-entryway-ideas/hero.jpg",
+    "status": "done"
+  },
+  "christmas-wrapping-paper-ideas": {
+    "new_slug": "christmas-wrapping-paper-ideas",
+    "title": "24 Christmas Wrapping Paper Ideas, and the Folds That Make Them Look Expensive",
+    "dek": "Stripes, tartan, toile, folk prints, kraft and soft pinks — 24 ways to wrap, with the overlap, tape and ribbon widths that turn a roll of paper into a gift that looks styled.",
+    "category": "Holidays",
+    "date": "2026-11-03",
+    "minutes": 9,
+    "word_count": 2549,
+    "hero_image": "images/articles/christmas-wrapping-paper-ideas/hero.jpg",
+    "status": "done"
+  },
+  "festive-hot-cocoa-bar-ideas": {
+    "new_slug": "festive-hot-cocoa-bar-ideas",
+    "title": "22 Hot Cocoa Bar Ideas That Stay Hot, Stay Tidy and Fit the Counter",
+    "dek": "From one wooden tray to a slow cooker for twenty — 22 cocoa bar setups sorted by space and crowd, with the holding temperature, topping count and dairy timing that keep the bar running on its own.",
+    "category": "Entertaining",
+    "date": "2026-11-03",
+    "minutes": 9,
+    "word_count": 2627,
+    "hero_image": "images/articles/festive-hot-cocoa-bar-ideas/hero.jpg",
+    "status": "done"
+  },
+  "white-christmas-decor-ideas": {
+    "new_slug": "white-christmas-decor-ideas",
+    "title": "27 White Christmas Decor Ideas That Read Warm Instead of Icy",
+    "dek": "Trees, mantels, consoles, stairs, tables and gifts in white, cream and silver — 27 ideas with the texture count, bulb temperature and one dark anchor that keep an all-white Christmas from going cold.",
+    "category": "Holidays",
+    "date": "2026-11-03",
+    "minutes": 10,
+    "word_count": 2908,
+    "hero_image": "images/articles/white-christmas-decor-ideas/hero.jpg",
+    "status": "done"
   }
 }

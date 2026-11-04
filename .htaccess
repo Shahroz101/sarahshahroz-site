@@ -1,12 +1,13 @@
 RewriteEngine On
 
+# Articles moved from /articles/<slug> to root-level /<slug>. Redirect old
+# per-article URLs (with or without .html, with or without a trailing slash)
+# to the new address. The /articles/ listing page itself is left alone.
+RewriteRule ^articles/(?!index(\.html)?$)([^/]+?)(\.html)?/?$ /$2 [R=301,L]
+
 # Redirect a direct .html request to its clean URL (avoids duplicate-content URLs)
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^?]+)\.html[\ ?] [NC]
 RewriteRule ^ /%1 [R=301,L]
-
-# Articles moved from /articles/<slug> to root-level /<slug>. Old per-article
-# URLs under /articles/ no longer exist (only the /articles/ listing page does).
-RewriteRule ^articles/(?!index(\.html)?$)[^/]+/?$ - [R=404,L]
 
 # Internally serve the .html file for a clean URL request
 RewriteCond %{REQUEST_FILENAME} !-d

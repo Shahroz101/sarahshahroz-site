@@ -2891,5 +2891,16 @@
     "word_count": 2908,
     "hero_image": "images/articles/white-christmas-decor-ideas/hero.jpg",
     "status": "done"
+  },
+  "christmas-outdoor-decor-ideas": {
+    "new_slug": "christmas-outdoor-decor-ideas",
+    "title": "22 Outdoor Christmas Decor Ideas Built to Stay Up Until January",
+    "dek": "From one wreathed door to a yard full of lit reindeer, 22 outdoor Christmas ideas with the fastening, spacing and safety details that keep them standing through wind, wet and snow.",
+    "category": "Holidays",
+    "date": "2026-11-06",
+    "minutes": 10,
+    "word_count": 2482,
+    "hero_image": "images/articles/christmas-outdoor-decor-ideas/hero.jpg",
+    "status": "done"
   }
 }

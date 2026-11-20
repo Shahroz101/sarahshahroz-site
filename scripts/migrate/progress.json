@@ -2902,5 +2902,38 @@
     "word_count": 2482,
     "hero_image": "images/articles/christmas-outdoor-decor-ideas/hero.jpg",
     "status": "done"
+  },
+  "spring-decor-ideas-2027": {
+    "new_slug": "spring-decor-ideas-2027",
+    "title": "35 Spring Decor Ideas for 2027 That Swap Weight for Light",
+    "dek": "From sheer curtains to rattan pendants, 35 spring ideas for 2027 with the measurements, flower habits and swaps that make a room lighter instead of busier.",
+    "category": "Seasonal",
+    "date": "2026-11-20",
+    "minutes": 11,
+    "word_count": 3377,
+    "hero_image": "images/articles/spring-decor-ideas-2027/hero.jpg",
+    "status": "done"
+  },
+  "cozy-winter-decor-ideas": {
+    "new_slug": "cozy-winter-decor-ideas",
+    "title": "22 Winter Decor Ideas That Warm a Room With Light and Texture",
+    "dek": "From 2700K bulbs and flameless candles to boucle chairs and pinecone bowls, 22 winter ideas with the placement, sizes and safety checks that warm a room without crowding it.",
+    "category": "Seasonal",
+    "date": "2026-11-20",
+    "minutes": 8,
+    "word_count": 2226,
+    "hero_image": "images/articles/cozy-winter-decor-ideas/hero.jpg",
+    "status": "done"
+  },
+  "small-home-office-ideas-for-women": {
+    "new_slug": "small-home-office-ideas-for-women",
+    "title": "31 Small Home Office Ideas for Women Built Around Desk, Light and Chair",
+    "dek": "From pink desks and floating corners to closet offices and built-ins, 31 small-office setups with the desk sizes, shelf gaps and lighting choices that make a tight space work.",
+    "category": "Home Office",
+    "date": "2026-11-20",
+    "minutes": 10,
+    "word_count": 2980,
+    "hero_image": "images/articles/small-home-office-ideas-for-women/hero.jpg",
+    "status": "done"
   }
 }

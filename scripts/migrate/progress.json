@@ -2935,5 +2935,82 @@
     "word_count": 2980,
     "hero_image": "images/articles/small-home-office-ideas-for-women/hero.jpg",
     "status": "done"
+  },
+  "breakfast-nook-ideas": {
+    "new_slug": "breakfast-nook-ideas",
+    "title": "33 Breakfast Nook Ideas Sized by the Inch for Small Kitchens",
+    "dek": "From curved banquettes to city corners, 33 breakfast nooks with the seat heights, table sizes and light levels that make a small corner comfortable to sit in.",
+    "category": "Kitchen",
+    "date": "2026-11-23",
+    "minutes": 10,
+    "word_count": 2883,
+    "hero_image": "images/articles/breakfast-nook-ideas/hero.jpg",
+    "status": "done"
+  },
+  "breezy-farmhouse-spring-decor-ideas": {
+    "new_slug": "breezy-farmhouse-spring-decor-ideas",
+    "title": "37 Farmhouse Spring Decor Ideas Gathered, Not Matched",
+    "dek": "From enamel pitchers and dough bowls to porch swings and sage bathrooms, 37 farmhouse spring ideas with the container tricks, hook ratings and flower care that keep a casual look tidy.",
+    "category": "Seasonal",
+    "date": "2026-11-23",
+    "minutes": 10,
+    "word_count": 2942,
+    "hero_image": "images/articles/breezy-farmhouse-spring-decor-ideas/hero.jpg",
+    "status": "done"
+  },
+  "spring-living-room-decor-ideas": {
+    "new_slug": "spring-living-room-decor-ideas",
+    "title": "29 Spring Living Room Ideas Built on Swaps, Not Shopping",
+    "dek": "From pastel pillow mixes to gallery walls and scalloped rugs, 29 spring living room ideas with the sizes, swaps and flower care that lighten a room without a big budget.",
+    "category": "Living Room",
+    "date": "2026-11-23",
+    "minutes": 8,
+    "word_count": 2456,
+    "hero_image": "images/articles/spring-living-room-decor-ideas/hero.jpg",
+    "status": "done"
+  },
+  "spring-console-table-ideas": {
+    "new_slug": "spring-console-table-ideas",
+    "title": "28 Spring Console Table Ideas Styled by Height and Proportion",
+    "dek": "From blossom branches and twin lamps to egg garlands and leaning art, 28 spring console table setups with the heights, mirror sizes and lamp rules that make a small surface look composed.",
+    "category": "Entryway",
+    "date": "2026-11-23",
+    "minutes": 7,
+    "word_count": 2264,
+    "hero_image": "images/articles/spring-console-table-ideas/hero.jpg",
+    "status": "done"
+  },
+  "spring-front-door-ideas": {
+    "new_slug": "spring-front-door-ideas",
+    "title": "30 Spring Front Door Ideas Sized, Hung and Matched to the Door Color",
+    "dek": "From rose wreaths on sage doors to door baskets and bows, 30 spring front door ideas with the wreath sizes, hanging heights and hooks that survive sun and wind.",
+    "category": "Entryway",
+    "date": "2026-11-23",
+    "minutes": 8,
+    "word_count": 2412,
+    "hero_image": "images/articles/spring-front-door-ideas/hero.jpg",
+    "status": "done"
+  },
+  "spring-porch-decor-ideas": {
+    "new_slug": "spring-porch-decor-ideas",
+    "title": "25 Spring Porch Ideas Chosen for Frost, Rain and Wind",
+    "dek": "From pansy-lined doors to hanging baskets and ladder shelves, 25 spring porch ideas with the hardy plants, outdoor fabrics, hook ratings and drainage tricks that survive a cold snap.",
+    "category": "Outdoor",
+    "date": "2026-11-23",
+    "minutes": 7,
+    "word_count": 2185,
+    "hero_image": "images/articles/spring-porch-decor-ideas/hero.jpg",
+    "status": "done"
+  },
+  "spring-entryway-ideas": {
+    "new_slug": "spring-entryway-ideas",
+    "title": "36 Spring Entryway Ideas Where the Function Comes First",
+    "dek": "From consoles and mirrors to hook rails and stair garlands, 36 spring entryway ideas with the walkway widths, hook heights and runner sizes that keep a small entry working.",
+    "category": "Entryway",
+    "date": "2026-11-23",
+    "minutes": 9,
+    "word_count": 2810,
+    "hero_image": "images/articles/spring-entryway-ideas/hero.jpg",
+    "status": "done"
   }
 }
